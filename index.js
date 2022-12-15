@@ -4,5 +4,5 @@ const input = (button) => {
 }
 
 const clearDisplay = () => {
-    document.calc.display.value = 
+    document.calc.display.value = calc.display.placeholder
 }
